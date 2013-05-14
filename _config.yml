@@ -1,3 +1,4 @@
+baseurl: /Kanto-Qt/
 markdown: redcarpet
 redcarpet:
   extensions: ["tables",  "autolink",  "strikethrough",  "superscript"]
